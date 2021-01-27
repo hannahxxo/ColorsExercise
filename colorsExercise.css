@@ -1,0 +1,37 @@
+h1 {
+    color: purple;
+    background-color: red;
+}
+h2 {
+    color: #0000FF;
+    background-color: orange;
+}
+h3 {
+    color: #00FF00;
+    background-color: yellow;
+}
+h4 {
+    color: #FF0;
+    background-color: green;
+}
+h5 {
+    color: rgb(200, 110, 50);
+    background-color: blue;
+}
+h6 {
+    color: rgba(255, 0, 0);
+    background-color: purple;
+}
+p {
+    color:rgba(255, 0 , 0, 0.2);
+    background-color: indigo;
+}
+li:nth-child(1) {
+    color: hotpink;
+}
+li:nth-child(3) {
+    background-color: peachpuff;
+}
+li:nth-child(1) {
+    border: 5px solid green;
+}
