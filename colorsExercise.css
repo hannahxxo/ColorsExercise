@@ -32,6 +32,7 @@ li:nth-child(1) {
 li:nth-child(3) {
     background-color: peachpuff;
 }
-li:nth-child(1) {
+li:nth-child(1),
+li:nth-child(3) {
     border: 5px solid green;
 }
